@@ -1,0 +1,9 @@
+About the Animal Health - Data Project
+
+The Animal Health project will focus on the conservation of wildlife, with a mission to protect, restore, and enhance natural ecosystems. This initiative will aim to develop a predictive model that will identify whether an animal's condition is dangerous and if it is at risk of dying, drawing upon five distinct symptoms. The dataset for this project, sourced from Kaggle, will feature a diverse array of species ranging from birds to mammals, each characterized by symptoms such as fever, coughing, weight loss, pain, and more.
+
+A Random Forest Classifier will be implemented to classify whether an animal is in danger. The dataset will undergo thorough data cleaning to refine it for model training. To address the challenge of an unbalanced dataset, the Random Over Sampling method will be employed to achieve balance. Exploratory data analysis will uncover significant insights into the danger levels of the animals, which will inform decision-making for animal welfare and contribute to bio-heritage conservation.
+
+In addition to the Random Forest model, other machine learning models will be implemented to enhance predictive accuracy. By improving the understanding and management of animal health, this project will contribute to maintaining wildlife populations and promoting biodiversity.
+
+Skills: Python, Pandas, Scikit-Learn, Machine Learning, Data Cleaning, Modelling.
